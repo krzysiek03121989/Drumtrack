@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Krzysztof Grzybek -- Programmer
+    Maciej Grzybek -- Designer
+
+    https://www.facebook.com/mushroombrothers
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr, Web Audio API
